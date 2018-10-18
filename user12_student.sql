@@ -1,0 +1,3 @@
+INSERT INTO user12.student (Sid, Sname, Sage, Ssex, Sdept, Stel, Stime) VALUES ('02', '小芳', '18', '女', '财贸管理系', '17762251225', '2018/5/19');
+INSERT INTO user12.student (Sid, Sname, Sage, Ssex, Sdept, Stel, Stime) VALUES ('03', '小黄', '19', '男', '计算机系', '18377885982', '2018/5/19');
+INSERT INTO user12.student (Sid, Sname, Sage, Ssex, Sdept, Stel, Stime) VALUES ('04', '张三', '20', '男', '机电工程系', '17786554923', '2018/5/19');
