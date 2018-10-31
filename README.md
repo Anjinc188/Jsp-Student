@@ -1,7 +1,7 @@
 # Jsp-Student
 
 >简单的增删改查、注册登录及验证功能
-编译环境： IntelliJ IDEA 2018.1.2 x64
+  编译环境： IntelliJ IDEA 2018.1.2 x64
           Jdk1.8.0_131
           Mysql
           Tomcat-8.5.30
